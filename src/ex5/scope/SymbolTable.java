@@ -1,7 +1,6 @@
 package ex5.scope;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class SymbolTable {
     private final ArrayList<Scope> scopes = new ArrayList<>();

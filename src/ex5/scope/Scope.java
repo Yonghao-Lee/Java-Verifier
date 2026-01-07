@@ -1,7 +1,6 @@
 package ex5.scope;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class Scope {
     private final HashMap<String, Variable> variables = new HashMap<>();
